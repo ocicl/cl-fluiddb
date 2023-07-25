@@ -1,0 +1,10 @@
+* cl-fluiddb
+
+Common Lisp library to access the Fluidinfo database / storage and search platform.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hdurer/cl-fluiddb.git   |
+| commit  | 99f309e  |
+| systems | cl-fluiddb |
+|---------+-------------------------------------------|
+
